@@ -1,0 +1,9 @@
+/home/mobydi/Documents/Workspace/3-Year-KPI/C#/Smartphone/Smartphone.Domain/obj/Debug/netcoreapp2.1/Smartphone.Domain.csprojAssemblyReference.cache
+/home/mobydi/Documents/Workspace/3-Year-KPI/C#/Smartphone/Smartphone.Domain/obj/Debug/netcoreapp2.1/Smartphone.Domain.csproj.CoreCompileInputs.cache
+/home/mobydi/Documents/Workspace/3-Year-KPI/C#/Smartphone/Smartphone.Domain/obj/Debug/netcoreapp2.1/Smartphone.Domain.AssemblyInfoInputs.cache
+/home/mobydi/Documents/Workspace/3-Year-KPI/C#/Smartphone/Smartphone.Domain/obj/Debug/netcoreapp2.1/Smartphone.Domain.AssemblyInfo.cs
+/home/mobydi/Documents/Workspace/3-Year-KPI/C#/Smartphone/Smartphone.Domain/bin/Debug/netcoreapp2.1/Smartphone.Domain.deps.json
+/home/mobydi/Documents/Workspace/3-Year-KPI/C#/Smartphone/Smartphone.Domain/bin/Debug/netcoreapp2.1/Smartphone.Domain.dll
+/home/mobydi/Documents/Workspace/3-Year-KPI/C#/Smartphone/Smartphone.Domain/bin/Debug/netcoreapp2.1/Smartphone.Domain.pdb
+/home/mobydi/Documents/Workspace/3-Year-KPI/C#/Smartphone/Smartphone.Domain/obj/Debug/netcoreapp2.1/Smartphone.Domain.dll
+/home/mobydi/Documents/Workspace/3-Year-KPI/C#/Smartphone/Smartphone.Domain/obj/Debug/netcoreapp2.1/Smartphone.Domain.pdb

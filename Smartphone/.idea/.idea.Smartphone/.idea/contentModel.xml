@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/ide" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2018.2/system/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Smartphone.-50177734.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Smartphone.Application" t="IncludeRecursive">
+        <e p="Factories" t="Include">
+          <e p="AppleSmartphoneComponentsFactory.cs" t="Include" />
+          <e p="AppleSmartphoneFactory.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Smartphone.Application.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Smartphone.Application.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Smartphone.Domain" t="IncludeRecursive">
+        <e p="Aggregates" t="Include">
+          <e p="Apple.cs" t="Include" />
+          <e p="Samsung.cs" t="Include" />
+          <e p="Smartphone.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="Abstract" t="Include">
+            <e p="Entity.cs" t="Include" />
+            <e p="IEntity.cs" t="Include" />
+          </e>
+          <e p="Camera" t="Include">
+            <e p="AnalogueCamera.cs" t="Include" />
+            <e p="Camera.cs" t="Include" />
+            <e p="DigitalCamera.cs" t="Include" />
+          </e>
+          <e p="OperationSystem" t="Include">
+            <e p="Android.cs" t="Include" />
+            <e p="IOS.cs" t="Include" />
+            <e p="OperationSystem.cs" t="Include" />
+          </e>
+          <e p="Processor" t="Include">
+            <e p="AMDProcessor.cs" t="Include" />
+            <e p="IntelProcessor.cs" t="Include" />
+            <e p="Processor.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Factories" t="Include">
+          <e p="ISmarthoneComponentsFactory.cs" t="Include" />
+          <e p="ISmartphoneFactory.cs" t="Include" />
+        </e>
+        <e p="Smartphone.Domain.csproj" t="IncludeRecursive" />
+        <e p="ValueObjects" t="Include">
+          <e p="FloatingNumberRange.cs" t="Include" />
+          <e p="NumberRange.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Smartphone.Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Smartphone.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

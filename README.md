@@ -6,4 +6,4 @@
 - 6329
 
 1. Lab1 - https://github.com/MobyDikkens/CSharp/tree/master/Smartphone
-2. Lab2 - https://github.com/MobyDikkens/CSharp/tree/master/Studing
+2. Lab2 - https://github.com/MobyDikkens/CSharp/tree/master/Studying

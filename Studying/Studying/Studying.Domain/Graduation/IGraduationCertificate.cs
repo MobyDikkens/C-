@@ -5,6 +5,6 @@ namespace Studying.Domain.Graduation
 {
     public interface IGraduationCertificate : IEntity<Guid>
     {
-        Guid Type { get; }
+        Guid InstitutionId { get; }
     }
 }

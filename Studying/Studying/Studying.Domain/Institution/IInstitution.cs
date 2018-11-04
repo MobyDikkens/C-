@@ -7,9 +7,9 @@ namespace Studying.Domain.Institution
 {
     public interface IInstitution : IEntity<Guid>
     {
-        Guid InstitutionType { get; }
         IReadOnlyCollection<IStudent> Students { get; }
         void Enter(IStudent student);
         IReadOnlyCollection<IStudent> Graduate();
+        void TickTerm();
     }
 }

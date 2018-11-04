@@ -7,18 +7,13 @@ namespace Studying.Application.Studying
     public class ListenLectionsStudyingDecorator : StudyingBaseDecorator
     {
         private static Action ListenLectionsStudingStrategy = () => Console.WriteLine("Listen lections...");
+        private static int ListenLectionsStudyingProfit = 35;
         
         public ListenLectionsStudyingDecorator(IStudying studying) : base(studying)
         {
         }
 
-        public override Action GetStudingStategy()
-        {
-            var baseStudingStrategy = base.GetStudingStategy();
-
-            var mergedStudingStrategy = baseStudingStrategy.Merge(ListenLectionsStudingStrategy);
-
-            return mergedStudingStrategy;
-        }
+        protected override Action StudyingStrategy => ListenLectionsStudingStrategy;
+        public override int Profit => ListenLectionsStudyingProfit;
     }
 }
